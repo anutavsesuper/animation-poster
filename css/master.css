@@ -1,0 +1,1521 @@
+body {
+  background: #DFE4FF;
+  position: relative;
+  width: 2048px;
+  height: 3900px;
+}
+
+
+.a0 {
+  position: absolute;
+  left: 31.93%;
+  right: 31.93%;
+  top: 0%;
+  bottom: 0%;
+  z-index: 1;
+}
+
+
+.a1 {
+  position: absolute;
+  left: 35.8%;
+  right: 58.66%;
+  top: 3.15%;
+  bottom: 89.22%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a1:hover {
+opacity: 1;
+}
+
+.a1 {
+transition: 6s;
+}
+
+.a1:hover {
+transition: 0.1s;
+}
+
+.a2 {
+  position: absolute;
+  left: 41%;
+  right: 51.32%;
+  top: 3.81%;
+  bottom: 88.77%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a2:hover {
+opacity: 1;
+}
+
+.a2 {
+transition: 6s;
+}
+
+.a2:hover {
+transition: 0.1s;
+}
+
+.a3 {
+  position: absolute;
+  left: 48.87%;
+  right: 36.11%;
+  top: 3.43%;
+  bottom: 89.31%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a3:hover {
+opacity: 1;
+}
+
+.a3 {
+transition: 6s;
+}
+
+.a3:hover {
+transition: 0.1s;
+}
+
+.a4 {
+  position: absolute;
+  left: 35.46%;
+  right: 59.47%;
+  top: 10.52%;
+  bottom: 81.71%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a4:hover {
+opacity: 1;
+}
+
+.a4 {
+transition: 6s;
+}
+
+.a4:hover {
+transition: 0.1s;
+}
+
+.a5 {
+  position: absolute;
+  left: 38.83%;
+  right: 53.58%;
+  top: 11.31%;
+  bottom: 81.1%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a5:hover {
+opacity: 1;
+}
+
+.a5 {
+transition: 6s;
+}
+
+.a5:hover {
+transition: 0.1s;
+}
+
+.a6 {
+  position: absolute;
+  left: 45.44%;
+  right: 44.1%;
+  top: 11.33%;
+  bottom: 81.17%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a6:hover {
+opacity: 1;
+}
+
+.a6 {
+transition: 6s;
+}
+
+.a6:hover {
+transition: 0.1s;
+}
+
+.a7 {
+  position: absolute;
+  left: 54.65%;
+  right: 38.66%;
+  top: 11.27%;
+  bottom: 81.64%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a7:hover {
+opacity: 1;
+}
+
+.a7 {
+transition: 6s;
+}
+
+.a7:hover {
+transition: 0.1s;
+}
+
+.a8 {
+  position: absolute;
+  left: 60.04%;
+  right: 35.79%;
+  top: 10.69%;
+  bottom: 81.56%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a8:hover {
+opacity: 1;
+}
+
+.a8 {
+transition: 6s;
+}
+
+.a8:hover {
+transition: 0.1s;
+}
+
+.a9 {
+  position: absolute;
+  left: 35.15%;
+  right: 61.29%;
+  top: 18.56%;
+  bottom: 74.19%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a9:hover {
+opacity: 1;
+}
+
+.a9 {
+transition: 6s;
+}
+
+.a9:hover {
+transition: 0.1s;
+}
+
+.a10 {
+  position: absolute;
+  left: 38.34%;
+  right: 53.94%;
+  top: 18.87%;
+  bottom: 73.69%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a10:hover {
+opacity: 1;
+}
+
+.a10 {
+transition: 6s;
+}
+
+.a10:hover {
+transition: 0.1s;
+}
+
+.a11 {
+  position: absolute;
+  left: 43.94%;
+  right: 46.11%;
+  top: 18.32%;
+  bottom: 73.39%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a11:hover {
+opacity: 1;
+}
+
+.a11 {
+transition: 6s;
+}
+
+.a11:hover {
+transition: 0.1s;
+}
+
+.a12 {
+  position: absolute;
+  left: 53.46%;
+  right: 38.96%;
+  top: 18.77%;
+  bottom: 73.59%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a12:hover {
+opacity: 1;
+}
+
+.a12 {
+transition: 6s;
+}
+
+.a12:hover {
+transition: 0.1s;
+}
+
+.a13 {
+  position: absolute;
+  left: 60.19%;
+  right: 35.4%;
+  top: 18.21%;
+  bottom: 73.6%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a13:hover {
+opacity: 1;
+}
+
+.a13 {
+transition: 6s;
+}
+
+.a13:hover {
+transition: 0.1s;
+}
+
+.a14 {
+  position: absolute;
+  left: 34.8%;
+  right: 59.58%;
+  top: 25.91%;
+  bottom: 65.57%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a14:hover {
+opacity: 1;
+}
+
+.a14 {
+transition: 6s;
+}
+
+.a14:hover {
+transition: 0.1s;
+}
+
+.a15 {
+  position: absolute;
+  left: 40.62%;
+  right: 53.32%;
+  top: 26.35%;
+  bottom: 65.43%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a15:hover {
+opacity: 1;
+}
+
+.a15 {
+transition: 6s;
+}
+
+.a15:hover {
+transition: 0.1s;
+}
+
+.a16 {
+  position: absolute;
+  left: 46.86%;
+  right: 45.89%;
+  top: 26.53%;
+  bottom: 65.23%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a16:hover {
+opacity: 1;
+}
+
+.a16 {
+transition: 6s;
+}
+
+.a16:hover {
+transition: 0.1s;
+}
+
+.a17 {
+  position: absolute;
+  left: 51.56%;
+  right: 39.61%;
+  top: 26.54%;
+  bottom: 65.39%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a17:hover {
+opacity: 1;
+}
+
+.a17 {
+transition: 6s;
+}
+
+.a17:hover {
+transition: 0.1s;
+}
+
+.a18 {
+  position: absolute;
+  left: 59.33%;
+  right: 35.05%;
+  top: 26.27%;
+  bottom: 65.68%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a18:hover {
+opacity: 1;
+}
+
+.a18 {
+transition: 6s;
+}
+
+.a18:hover {
+transition: 0.1s;
+}
+
+.a19 {
+  position: absolute;
+  left: 48.08%;
+  right: 46.85%;
+  top: 9.26%;
+  bottom: 88.94%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a19:hover {
+opacity: 1;
+}
+
+.a19 {
+transition: 6s;
+}
+
+.a19:hover {
+transition: 0.1s;
+}
+
+.a20 {
+  position: absolute;
+  left: 34.52%;
+  right: 54.46%;
+  top: 34.32%;
+  bottom: 58.18%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a20:hover {
+opacity: 1;
+}
+
+.a20 {
+transition: 6s;
+}
+
+.a20:hover {
+transition: 0.1s;
+}
+
+.a21 {
+  position: absolute;
+  left: 45.21%;
+  right: 46.79%;
+  top: 34.7%;
+  bottom: 57.61%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a21:hover {
+opacity: 1;
+}
+
+.a21 {
+transition: 6s;
+}
+
+.a21:hover {
+transition: 0.1s;
+}
+
+.a22 {
+  position: absolute;
+  left: 51.26%;
+  right: 37.74%;
+  top: 34.89%;
+  bottom: 57.74%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a22:hover {
+opacity: 1;
+}
+
+.a22 {
+transition: 6s;
+}
+
+.a22:hover {
+transition: 0.1s;
+}
+
+.a23 {
+  position: absolute;
+  left: 60.14%;
+  right: 34.71%;
+  top: 33.88%;
+  bottom: 58.11%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a23:hover {
+opacity: 1;
+}
+
+.a23 {
+transition: 6s;
+}
+
+.a23:hover {
+transition: 0.1s;
+}
+
+.a24 {
+  position: absolute;
+  left: 34.19%;
+  right: 59.43%;
+  top: 41.35%;
+  bottom: 49.88%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a24:hover {
+opacity: 1;
+}
+
+.a24 {
+transition: 6s;
+}
+
+.a24:hover {
+transition: 0.1s;
+}
+
+.a25 {
+  position: absolute;
+  left: 38.13%;
+  right: 52.17%;
+  top: 42.26%;
+  bottom: 49.59%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a25:hover {
+opacity: 1;
+}
+
+.a25 {
+transition: 6s;
+}
+
+.a25:hover {
+transition: 0.1s;
+}
+
+.a26 {
+  position: absolute;
+  left: 45.81%;
+  right: 45.61%;
+  top: 42.36%;
+  bottom: 49.11%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a26:hover {
+opacity: 1;
+}
+
+.a26 {
+transition: 6s;
+}
+
+.a26:hover {
+transition: 0.1s;
+}
+
+.a27 {
+  position: absolute;
+  left: 51.44%;
+  right: 37.6%;
+  top: 42.23%;
+  bottom: 49.34%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a27:hover {
+opacity: 1;
+}
+
+.a27 {
+transition: 6s;
+}
+
+.a27:hover {
+transition: 0.1s;
+}
+
+.a28 {
+  position: absolute;
+  left: 61.05%;
+  right: 34.32%;
+  top: 41.59%;
+  bottom: 49.69%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a28:hover {
+opacity: 1;
+}
+
+.a28 {
+transition: 6s;
+}
+
+.a28:hover {
+transition: 0.1s;
+}
+
+.a29 {
+  position: absolute;
+  left: 33.87%;
+  right: 59.69%;
+  top: 49.44%;
+  bottom: 42.86%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a29:hover {
+opacity: 1;
+}
+
+.a29 {
+transition: 6s;
+}
+
+.a29:hover {
+transition: 0.1s;
+}
+
+.a30 {
+  position: absolute;
+  left: 36.78%;
+  right: 53.16%;
+  top: 50.22%;
+  bottom: 42.57%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a30:hover {
+opacity: 1;
+}
+
+.a30 {
+transition: 6s;
+}
+
+.a30:hover {
+transition: 0.1s;
+}
+
+.a31 {
+  position: absolute;
+  left: 46.13%;
+  right: 45.06%;
+  top: 50.89%;
+  bottom: 42.35%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a31:hover {
+opacity: 1;
+}
+
+.a31 {
+transition: 6s;
+}
+
+.a31:hover {
+transition: 0.1s;
+}
+
+.a32 {
+  position: absolute;
+  left: 53.62%;
+  right: 36.21%;
+  top: 50.42%;
+  bottom: 42.58%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a32:hover {
+opacity: 1;
+}
+
+.a32 {
+transition: 6s;
+}
+
+.a32:hover {
+transition: 0.1s;
+}
+
+.a33 {
+  position: absolute;
+  left: 60.95%;
+  right: 33.75%;
+  top: 50.07%;
+  bottom: 37.65%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a33:hover {
+opacity: 1;
+}
+
+.a33 {
+transition: 6s;
+}
+
+.a33:hover {
+transition: 0.1s;
+}
+
+.a34 {
+  position: absolute;
+  left: 33.45%;
+  right: 59.21%;
+  top: 56.56%;
+  bottom: 34.69%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a34:hover {
+opacity: 1;
+}
+
+.a34 {
+transition: 6s;
+}
+
+.a34:hover {
+transition: 0.1s;
+}
+
+.a35 {
+  position: absolute;
+  left: 39.94%;
+  right: 52.93%;
+  top: 57.69%;
+  bottom: 34.14%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a35:hover {
+opacity: 1;
+}
+
+.a35 {
+transition: 6s;
+}
+
+.a35:hover {
+transition: 0.1s;
+}
+
+.a36 {
+  position: absolute;
+  left: 46.1%;
+  right: 46.91%;
+  top: 57.62%;
+  bottom: 34.09%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a36:hover {
+opacity: 1;
+}
+
+.a36 {
+transition: 6s;
+}
+
+.a36:hover {
+transition: 0.1s;
+}
+
+.a37 {
+  position: absolute;
+  left: 49.32%;
+  right: 40.07%;
+  top: 57.57%;
+  bottom: 34.1%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a37:hover {
+opacity: 1;
+}
+
+.a37 {
+transition: 6s;
+}
+
+.a37:hover {
+transition: 0.1s;
+}
+
+.a38 {
+  position: absolute;
+  left: 58.37%;
+  right: 33.63%;
+  top: 57.26%;
+  bottom: 34.48%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a38:hover {
+opacity: 1;
+}
+
+.a38 {
+transition: 6s;
+}
+
+.a38:hover {
+transition: 0.1s;
+}
+
+.a39 {
+  position: absolute;
+  left: 33.19%;
+  right: 60.04%;
+  top: 64.87%;
+  bottom: 27.32%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a39:hover {
+opacity: 1;
+}
+
+.a39 {
+transition: 6s;
+}
+
+.a39:hover {
+transition: 0.1s;
+}
+
+.a40 {
+  position: absolute;
+  left: 37.29%;
+  right: 53.68%;
+  top: 65.46%;
+  bottom: 26.78%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a40:hover {
+opacity: 1;
+}
+
+.a40 {
+transition: 6s;
+}
+
+.a40:hover {
+transition: 0.1s;
+}
+
+.a41 {
+  position: absolute;
+  left: 43.21%;
+  right: 45.96%;
+  top: 66.16%;
+  bottom: 26.37%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a41:hover {
+opacity: 1;
+}
+
+.a41 {
+transition: 6s;
+}
+
+.a41:hover {
+transition: 0.1s;
+}
+
+.a42 {
+  position: absolute;
+  left: 54.12%;
+  right: 37.46%;
+  top: 65.75%;
+  bottom: 26.26%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a42:hover {
+opacity: 1;
+}
+
+.a42 {
+transition: 6s;
+}
+
+.a42:hover {
+transition: 0.1s;
+}
+
+.a43 {
+  position: absolute;
+  left: 62.54%;
+  right: 33.23%;
+  top: 65.38%;
+  bottom: 26.77%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a43:hover {
+opacity: 1;
+}
+
+.a43 {
+transition: 6s;
+}
+
+.a43:hover {
+transition: 0.1s;
+}
+
+.a44 {
+  position: absolute;
+  left: 32.86%;
+  right: 61.12%;
+  top: 72.45%;
+  bottom: 19.11%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a44:hover {
+opacity: 1;
+}
+
+.a44 {
+transition: 6s;
+}
+
+.a44:hover {
+transition: 0.1s;
+}
+
+.a45 {
+  position: absolute;
+  left: 37.96%;
+  right: 52.81%;
+  top: 73.34%;
+  bottom: 18.75%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a45:hover {
+opacity: 1;
+}
+
+.a45 {
+transition: 6s;
+}
+
+.a45:hover {
+transition: 0.1s;
+}
+
+.a46 {
+  position: absolute;
+  left: 43.58%;
+  right: 49.72%;
+  top: 73.72%;
+  bottom: 18.7%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a46:hover {
+opacity: 1;
+}
+
+.a46 {
+transition: 6s;
+}
+
+.a46:hover {
+transition: 0.1s;
+}
+
+.a47 {
+  position: absolute;
+  left: 47.6%;
+  right: 37.72%;
+  top: 73.74%;
+  bottom: 18.46%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a47:hover {
+opacity: 1;
+}
+
+.a47 {
+transition: 6s;
+}
+
+.a47:hover {
+transition: 0.1s;
+}
+
+.a48 {
+  position: absolute;
+  left: 61.02%;
+  right: 32.88%;
+  top: 72.84%;
+  bottom: 19.34%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a48:hover {
+opacity: 1;
+}
+
+.a48 {
+transition: 6s;
+}
+
+.a48:hover {
+transition: 0.1s;
+}
+
+.a49 {
+  position: absolute;
+  left: 32.63%;
+  right: 63.03%;
+  top: 80.64%;
+  bottom: 11.35%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a49:hover {
+opacity: 1;
+}
+
+.a49 {
+transition: 6s;
+}
+
+.a49:hover {
+transition: 0.1s;
+}
+
+.a50 {
+  position: absolute;
+  left: 36.89%;
+  right: 55.49%;
+  top: 81.3%;
+  bottom: 11%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a50:hover {
+opacity: 1;
+}
+
+.a50 {
+transition: 6s;
+}
+
+.a50:hover {
+transition: 0.1s;
+}
+
+.a51 {
+  position: absolute;
+  left: 44.27%;
+  right: 46.21%;
+  top: 81.54%;
+  bottom: 10.82%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a51:hover {
+opacity: 1;
+}
+
+.a51 {
+transition: 6s;
+}
+
+.a51:hover {
+transition: 0.1s;
+}
+
+.a52 {
+  position: absolute;
+  left: 53.13%;
+  right: 38.15%;
+  top: 81.25%;
+  bottom: 11.05%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a52:hover {
+opacity: 1;
+}
+
+.a52 {
+transition: 6s;
+}
+
+.a52:hover {
+transition: 0.1s;
+}
+
+.a53 {
+  position: absolute;
+  left: 57.64%;
+  right: 32.52%;
+  top: 80.32%;
+  bottom: 11.17%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a53:hover {
+opacity: 1;
+}
+
+.a53 {
+transition: 6s;
+}
+
+.a53:hover {
+transition: 0.1s;
+}
+
+.a54 {
+  position: absolute;
+  left: 66.23%;
+  right: 32.64%;
+  top: 82.87%;
+  bottom: 14.76%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a54:hover {
+opacity: 1;
+}
+
+.a54 {
+transition: 6s;
+}
+
+.a54:hover {
+transition: 0.1s;
+}
+
+.a55 {
+  position: absolute;
+  left: 32.28%;
+  right: 62.56%;
+  top: 91.43%;
+  bottom: 6.24%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a55:hover {
+opacity: 1;
+}
+
+.a55 {
+transition: 6s;
+}
+
+.a55:hover {
+transition: 0.1s;
+}
+
+.a56 {
+  position: absolute;
+  left: 35.42%;
+  right: 54.57%;
+  top: 88.96%;
+  bottom: 3.4%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a56:hover {
+opacity: 1;
+}
+
+.a56 {
+transition: 6s;
+}
+
+.a56:hover {
+transition: 0.1s;
+}
+
+.a57 {
+  position: absolute;
+  left: 45.58%;
+  right: 44.55%;
+  top: 89.52%;
+  bottom: 3.17%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a57:hover {
+opacity: 1;
+}
+
+.a57 {
+transition: 6s;
+}
+
+.a57:hover {
+transition: 0.1s;
+}
+
+.a58 {
+  position: absolute;
+  left: 51.61%;
+  right: 35.98%;
+  top: 88.77%;
+  bottom: 3.36%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a58:hover {
+opacity: 1;
+}
+
+.a58 {
+transition: 6s;
+}
+
+.a58:hover {
+transition: 0.1s;
+}
+
+.a59 {
+  position: absolute;
+  left: 63.71%;
+  right: 32.15%;
+  top: 88%;
+  bottom: 3.91%;
+  z-index: 2;
+  opacity: 0;
+}
+
+.a59:hover {
+opacity: 1;
+}
+
+.a59 {
+transition: 6s;
+}
+
+.a59:hover {
+transition: 0.1s;
+}
+
+.a60 {
+  position: fixed;
+  width: 67px;
+  height: 60px;
+  left: 1939px;
+  top: 978px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.oblaco1 {
+  position: absolute;
+  width: 632.89px;
+  height: 522px;
+  left: 21px;
+  top: 123px;
+  animation-name: go-left-right;
+  z-index: 0;
+}
+
+/* Современные браузеры, кроме Chrome, Opera, Safari */
+  @keyframes go-left-right {   /* назовём анимацию: "go-left-right" */
+    from {
+      left: 0px;               /* от: left: 0px */
+    }
+    to {
+      left: calc(100% - 50px); /* до: left: 100%-50px */
+    }
+  }
+
+  /* Префикс для Chrome, Opera, Safari */
+  @-webkit-keyframes go-left-right {
+    from {
+      left: 0px;
+    }
+    to {
+      left: calc(100% - 50px);
+    }
+  }
+
+  .oblaco1 {
+    /* применить анимацию go-left-right */
+    /* продолжительность 3s */
+    /* количество раз: бесконечное (infinite) */
+    /* менять направление анимации каждый раз (alternate) */
+    animation: go-left-right 35s infinite alternate;
+    -webkit-animation: go-left-right 36s infinite alternate;
+  }
+
+.oblaco2 {
+  position: absolute;
+  width: 602px;
+  height: 511px;
+  left: 1371px;
+  top: 1177px;
+  animation-name: go-right-left;
+  z-index: 0;
+}
+
+/* Современные браузеры, кроме Chrome, Opera, Safari */
+  @keyframes go-right-left {   /* назовём анимацию: "go-left-right" */
+    from {
+      left: 0px;
+    }
+    to {
+      left: calc(100% - 50px);
+    }
+  }
+
+  /* Префикс для Chrome, Opera, Safari */
+  @-webkit-keyframes go-right-left {
+    from {
+      left: 0px;
+    }
+    to {
+      left: calc(100% - 50px);
+    }
+  }
+
+  .oblaco2 {
+    /* применить анимацию go-left-right */
+    /* продолжительность 3s */
+    /* количество раз: бесконечное (infinite) */
+    /* менять направление анимации каждый раз (alternate) */
+    animation: go-right-left 10s infinite alternate;
+    -webkit-animation: go-left-right 11s infinite alternate;
+}
+
+.oblaco3 {
+  position: absolute;
+  width: 635px;
+  height: 524px;
+  left: 212px;
+  top: 2132px;
+  animation-name: go-left-right;
+  z-index: 0;
+}
+
+/* Современные браузеры, кроме Chrome, Opera, Safari */
+  @keyframes go-left-right {   /* назовём анимацию: "go-left-right" */
+    from {
+      left: 0px;               /* от: left: 0px */
+    }
+    to {
+      left: calc(100% - 50px); /* до: left: 100%-50px */
+    }
+  }
+
+  /* Префикс для Chrome, Opera, Safari */
+  @-webkit-keyframes go-left-right {
+    from {
+      left: 0px;
+    }
+    to {
+      left: calc(100% - 50px);
+    }
+  }
+
+  .oblaco3 {
+    /* применить анимацию go-left-right */
+    /* продолжительность 3s */
+    /* количество раз: бесконечное (infinite) */
+    /* менять направление анимации каждый раз (alternate) */
+    animation: go-left-right 35s infinite alternate;
+    -webkit-animation: go-left-right 36s infinite alternate;
+  }
+
+.oblaco4 {
+  position: absolute;
+  width: 582px;
+  height: 495px;
+  left: 1315px;
+  top: 3163px;
+  animation-name: go-right-left;
+  z-index: 0;
+}
+
+/* Современные браузеры, кроме Chrome, Opera, Safari */
+  @keyframes go-right-left {   /* назовём анимацию: "go-left-right" */
+    from {
+      left: 0px;
+    }
+    to {
+      left: calc(100% - 50px);
+    }
+  }
+
+  /* Префикс для Chrome, Opera, Safari */
+  @-webkit-keyframes go-right-left {
+    from {
+      left: 0px;
+    }
+    to {
+      left: calc(100% - 50px);
+    }
+  }
+
+  .oblaco4 {
+    /* применить анимацию go-left-right */
+    /* продолжительность 3s */
+    /* количество раз: бесконечное (infinite) */
+    /* менять направление анимации каждый раз (alternate) */
+    animation: go-right-left 10s infinite alternate;
+    -webkit-animation: go-left-right 11s infinite alternate;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
